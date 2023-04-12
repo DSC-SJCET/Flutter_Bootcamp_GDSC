@@ -1,5 +1,5 @@
 # Flutter_Bootcamp_GDSC  
-### A 4-day BootCamp on App Development in Flutter by GDSC SJCET</a><br><br>
+### A 4-day BootCamp on App Development in Flutter by <a href="https://github.com/DSC-SJCET">GDSC SJCET</a><br><br>
 ## Contents
 * Day 1,2
 
